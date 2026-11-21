@@ -1,0 +1,7 @@
+{
+  "name": "Level_Cap_Remover",
+  "version_number": "1.0.2",
+  "website_url": "https://github.com/LyKhoris/ror2-levelcap-removal",
+  "description": "Note: this project is entirely vibe coded\n\nuncaps level cap innit\n\nicon credit OpenMoji (CC BY-SA 4.0)\noriginal idea from Moffein’s Raise Monster Level Cap",
+  "dependencies": ["bbepis-BepInExPack-5.4.2122", "RiskofThunder-RoR2BepInExPack-1.50.0"]
+}
